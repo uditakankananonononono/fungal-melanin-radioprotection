@@ -40,3 +40,12 @@ CANNOT (supported):
 ## Scientific-success assessment (per Addendum 1)
 
 Completed experiment: yes — every gate runs reproducibly from checksummed public data, and all predictions were scored honestly. Novel finding beating a named baseline: NO. Every "CAN" is a re-verification of published claims; every "CANNOT" is a null. The one independent, quantitative novelty is the explicit per-mass comparison showing melanin is uniformly WORSE than water across 1 keV-100 MeV (never reported this way in the cited promotion literature), which sharpens rather than overturns the authors' own "limited by mass density" statement.
+
+## Post-review qualifications (2026-11-13, added after run 1; run 1 text above preserved verbatim)
+
+Independent review of commit 4003a07 required these scoping qualifications. The gate arithmetic is unchanged; only claim wording is scoped.
+
+1. **G1 is a bounded composition/energy result, not a global statement.** "Melanin never exceeds water per unit mass" holds only for the two tested compositions (C18H10N2O4 and C8H4O2 unit formulae), the photon total-attenuation-without-coherent coefficient, and the tested 1 keV-100 GeV NIST XCOM grid. Other melanin chemotypes, other interaction channels, and energies outside the grid were not tested. The frozen gate verdict (not special, by the >2x-both-decades criterion) stands.
+2. **G2 establishes plausibility, not causation.** The required mu_eff falling inside water's 20 keV-2 MeV band shows the ISS count reduction is *consistent with* plain hydrated biomass and does not *require* melanin-specific physics. It does not establish that mass alone causally explains the observation; that would need the actual detector energy spectrum and geometry, which are not published (caveat already frozen in PREREG Q2). The gate tests necessity, and necessity is what failed.
+3. **Q5 is bounded to its stated model.** The glutathione comparison shows melanin cannot compete *as a one-time, stoichiometric radical sink at <=1 g/kg tissue loading against enzyme-regenerated endogenous GSH*. It is not a general chemical or clinical impossibility claim: catalytic/regenerating melanin formulations, intracellular nanoparticle delivery (which Schweitzer 2009 explicitly raises), and low-photon-energy regimes (where 21-23% CHO-cell survival increases were measured) are outside its scope.
+4. **No novelty claim is made from absence of statements in promotion literature.** The per-mass grid comparison is reported as this project's own computation from NIST data, nothing more.
