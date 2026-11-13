@@ -28,3 +28,10 @@ Prediction score: 1/1 (G6 predicted FAIL, observed FAIL).
 - NIST ASTAR: Stopping-Power and Range Tables for Helium Ions: https://physics.nist.gov/PhysRefData/Star/Text/ASTAR.html
 - Data pulled via https://physics.nist.gov/cgi-bin/Star/ap_table.pl on 2026-11-13; material numbers, sha256 and retrieval timestamps in `data/manifest_star.json`.
 - Bragg-Kleeman additivity is the standard rule documented in the PSTAR/ASTAR methodology (same pages).
+
+## Post-review qualification (2026-11-13, added after run 2; run 2 text above preserved verbatim)
+
+Independent review required this scoping addition. The gate arithmetic is unchanged.
+
+1. **Stopping power per gram is not dose or shielding efficacy.** G6 compares mass stopping powers only. Lower S/rho for melanin does NOT by itself establish inferior (or superior) shielding dose performance: shielding efficacy depends additionally on particle range, secondary-particle production and build-up, Bragg-peak depth and target geometry, none of which are modeled here. All run-2 conclusions are confined to the stopping-power model channel. Any dose-level claim would require an actual radiation-transport calculation, which this project has not run and does not claim.
+2. The combined run-1/run-2 statement ("not per-mass special for either channel") is likewise confined to the attenuation-coefficient and stopping-power channels under the stated models and grids; it is not a dose-efficacy verdict.
