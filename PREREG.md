@@ -67,3 +67,7 @@ CANNOT (predicted): per-mass ionizing-radiation superiority over water/polyethyl
 ## Success criterion for the project itself
 
 The project succeeds if every gate runs reproducibly from checksummed public data, predictions are scored honestly (including prediction failures), and the can/cannot matrix is populated with numbers. It does not require any particular claim to win.
+
+## Addendum 1 (2026-11-13, before any results): success terminology
+
+A COMPLETED EXPERIMENT (all gates answered reproducibly from checksummed public data) is not SCIENTIFIC SUCCESS. Scientific success requires a novel finding that beats a named baseline under these frozen comparisons (e.g., a regime where melanin genuinely outperforms water/polyethylene per unit mass). Most predictions above are nulls; nulls are reported as nulls. Predicted "CAN" items are largely re-verifications of published claims with independent public data - they count as verification, not novelty.
