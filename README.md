@@ -21,3 +21,7 @@ Raw NIST responses are kept under data/raw/ and data/raw/star/; every parsed tab
 ## Provenance
 
 All commits pushed to this repository. Run 1 results at commit 4003a07; post-review qualifications 59f65f7; PREREG2 frozen at 4de573c before run-2 data; run 2 results at a6e31be.
+
+## Chronology evidence, stated as-is
+
+Git history preserves order, but note the evidence limits: run-1 prereg commits (331c476, 6ad525a) were pushed before any analysis code existed; run-2's prereg (4de573c) and results (a6e31be) were pushed within about 80 seconds of each other, and there is no independent remote observation between them, so remote timestamps alone cannot prove the freeze-then-run gap for run 2. The chronology claim for run 2 rests on local commit order plus this disclosure.
