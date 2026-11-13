@@ -1,0 +1,128 @@
+{
+  "PSTAR_H": {
+    "matno": "001",
+    "rows": 132,
+    "sha256_html": "aa4b15a3c5804aabdc44108e0961b76cf6171c379eb29024ffe591855b803f78",
+    "sha256_tsv": "33a9a7ea86ee690eba2270338a6d535fea96cd3bd8690a21a1dbe8e07d01ef13",
+    "retrieved_utc": "2026-11-13T07:53:44+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "PSTAR"
+  },
+  "PSTAR_C": {
+    "matno": "006",
+    "rows": 132,
+    "sha256_html": "a68a3a2815ebf81d0d70f5395f08166ca7699b9ea7eab4c2d2fc0fd07820c8e4",
+    "sha256_tsv": "3eeced08c0c0ab55c5732df96819688c42df41bbcbe8f53f903d7c8fd276a6c0",
+    "retrieved_utc": "2026-11-13T07:53:46+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "PSTAR"
+  },
+  "PSTAR_N": {
+    "matno": "007",
+    "rows": 132,
+    "sha256_html": "1325aa5380001a7ffcf8618f0bd3f153047e3dea360e3d0dfed25f820872b2a6",
+    "sha256_tsv": "68f256ece229249caf70021adfe79b66226b22e2bff17252c44bf8de6da4b721",
+    "retrieved_utc": "2026-11-13T07:53:49+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "PSTAR"
+  },
+  "PSTAR_O": {
+    "matno": "008",
+    "rows": 132,
+    "sha256_html": "f46f9efa1206bd5d01adbb06503cc92c42df1e708e3f24776a0e849a865d9b80",
+    "sha256_tsv": "90229bdba8517f35ecdeaa4e6ba95b1bc710bec5fb201473fb9898fd8a6fba00",
+    "retrieved_utc": "2026-11-13T07:53:53+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "PSTAR"
+  },
+  "PSTAR_aluminum": {
+    "matno": "013",
+    "rows": 132,
+    "sha256_html": "9ddd729acfecf6ed5283fbcb2ae833fa5f0b27984c9efc3c048ac6e6a6634f4f",
+    "sha256_tsv": "8014f4ddb471c0cc47326d0eb4c257f10ee3a5886dff9ec7e33a9fd01659b46f",
+    "retrieved_utc": "2026-11-13T07:53:55+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "PSTAR"
+  },
+  "PSTAR_polyethylene": {
+    "matno": "221",
+    "rows": 132,
+    "sha256_html": "701d40d877d3a6cbff08d7d83a58d0fbf793811ee7ec70582ab120739eb91841",
+    "sha256_tsv": "c865c17698e373e86911d29340bf6ec6540f250b1b4dd655ea589e0f04c2aeeb",
+    "retrieved_utc": "2026-11-13T07:53:58+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "PSTAR"
+  },
+  "PSTAR_water": {
+    "matno": "276",
+    "rows": 132,
+    "sha256_html": "9de206a787561ca1b9468fa1dd9e50b73ca28e3202fbf1418cbcd3e26016b88b",
+    "sha256_tsv": "586e9e7e3b04b65ffd990b7899f87939aa93ca4628d719aa021c01c9966199d0",
+    "retrieved_utc": "2026-11-13T07:54:00+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "PSTAR"
+  },
+  "ASTAR_H": {
+    "matno": "001",
+    "rows": 121,
+    "sha256_html": "106db658722ef35c064e3d8248ca6f0eedd4dcd818720323b6244d7b75d0e745",
+    "sha256_tsv": "848a062de4b88523984a26f7cf50b6f1b1782c63c97081228fe5955c3df992fe",
+    "retrieved_utc": "2026-11-13T07:54:02+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "ASTAR"
+  },
+  "ASTAR_C": {
+    "matno": "006",
+    "rows": 121,
+    "sha256_html": "bab787bab0531e5ea62e7844c337fdd83e8d4c7fa477cc6c739cad3ea311f331",
+    "sha256_tsv": "e62cbfb181206d75d51eb403bae07271320fc7a9a72c0d4d5fcc68783d8dc0d7",
+    "retrieved_utc": "2026-11-13T07:54:04+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "ASTAR"
+  },
+  "ASTAR_N": {
+    "matno": "007",
+    "rows": 121,
+    "sha256_html": "fadfb4ef4ba9d952059c50b5555c9d92d672be1e3dfa7c83a397065f90ac9ae3",
+    "sha256_tsv": "1818ebc0466d3743bae164c6f42805e1d8e73d6185a950145fefb04aa4dc1c07",
+    "retrieved_utc": "2026-11-13T07:54:06+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "ASTAR"
+  },
+  "ASTAR_O": {
+    "matno": "008",
+    "rows": 121,
+    "sha256_html": "d31e1c861551f61d756986fcffdd9cc51481dfcacc74fd69be0b158b519ee115",
+    "sha256_tsv": "86e147487a779d858ccc472603b26201dd98a6891873700028bf5e77359a2f5b",
+    "retrieved_utc": "2026-11-13T07:54:09+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "ASTAR"
+  },
+  "ASTAR_aluminum": {
+    "matno": "013",
+    "rows": 121,
+    "sha256_html": "faeac90df578fa4ade9a963be791727dd4e6228d78a6007519df8f8e463608ba",
+    "sha256_tsv": "9dc49fbc866ca5fc0c89a700c7723633988cfe37a82af5abcea0aa88b853cf55",
+    "retrieved_utc": "2026-11-13T07:54:11+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "ASTAR"
+  },
+  "ASTAR_polyethylene": {
+    "matno": "221",
+    "rows": 121,
+    "sha256_html": "755171b970910c36be1dbc44678a50ac6a77a22539dbd0d3c7569d6de9bdc5d5",
+    "sha256_tsv": "19829f0916708da8206795c20964d18127f7116519f58ead6297c811e515b5ca",
+    "retrieved_utc": "2026-11-13T07:54:13+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "ASTAR"
+  },
+  "ASTAR_water": {
+    "matno": "276",
+    "rows": 121,
+    "sha256_html": "64456f0acc77b7186e984b87be71514a9aabce8935d9b67f01c75d7128fb337e",
+    "sha256_tsv": "d84699350d932d7bf7552113e4a15adfdec82ee7e0680d8749041826cb95af74",
+    "retrieved_utc": "2026-11-13T07:54:16+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Star/ap_table.pl",
+    "program": "ASTAR"
+  }
+}

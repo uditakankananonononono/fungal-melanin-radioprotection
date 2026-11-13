@@ -31,3 +31,10 @@ N 0.026
 O 0.761` | 80 | 2026-11-13T07:51:42+00:00 | 5f903096b262da87... |
 
 Verification: `python3 analyze.py` re-checks nothing about provenance; to verify hashes, re-run `REFETCH=1 python3 fetch_xcom.py` on a clean checkout and diff data/manifest.json, or sha256sum data/*.tsv against the values above (full values in data/manifest.json).
+
+## Run 2 (MEL-SHIELD-2): NIST PSTAR/ASTAR
+
+- PSTAR (protons): https://physics.nist.gov/PhysRefData/Star/Text/PSTAR.html
+- ASTAR (alpha particles): https://physics.nist.gov/PhysRefData/Star/Text/ASTAR.html
+- Retrieval endpoint: https://physics.nist.gov/cgi-bin/Star/ap_table.pl (raw HTML under data/raw/star/)
+- 14 tables (7 materials x 2 particles), parsed TSVs in data/star/, full sha256 + retrieval timestamps in data/manifest_star.json

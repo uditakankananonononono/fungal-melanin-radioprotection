@@ -1,0 +1,69 @@
+{
+  "assumptions": "Bragg additivity; total mass stopping power; bins 1-10/10-100/100-1000/1000-10000 MeV",
+  "G6": {
+    "gate": "melanin proton S/rho > 2x water AND polyethylene in every bin 1 MeV-10 GeV, both compositions",
+    "ratios": {
+      "eumelanin": {
+        "1-10 MeV": {
+          "min_ratio_vs_water": 0.9147,
+          "min_ratio_vs_polyethylene": 0.8246
+        },
+        "10-100 MeV": {
+          "min_ratio_vs_water": 0.925,
+          "min_ratio_vs_polyethylene": 0.8578
+        },
+        "100-1000 MeV": {
+          "min_ratio_vs_water": 0.9149,
+          "min_ratio_vs_polyethylene": 0.8698
+        },
+        "1000-10000 MeV": {
+          "min_ratio_vs_water": 0.9149,
+          "min_ratio_vs_polyethylene": 0.872
+        }
+      },
+      "dhn": {
+        "1-10 MeV": {
+          "min_ratio_vs_water": 0.9112,
+          "min_ratio_vs_polyethylene": 0.8214
+        },
+        "10-100 MeV": {
+          "min_ratio_vs_water": 0.9228,
+          "min_ratio_vs_polyethylene": 0.8555
+        },
+        "100-1000 MeV": {
+          "min_ratio_vs_water": 0.9123,
+          "min_ratio_vs_polyethylene": 0.8676
+        },
+        "1000-10000 MeV": {
+          "min_ratio_vs_water": 0.9121,
+          "min_ratio_vs_polyethylene": 0.8694
+        }
+      }
+    },
+    "PASS": false,
+    "predicted": false
+  },
+  "descriptives": {
+    "eumelanin_at_1GeV_protons": {
+      "vs_water": 0.9149,
+      "vs_polyethylene": 0.872
+    },
+    "dhn_at_1GeV_protons": {
+      "vs_water": 0.9123,
+      "vs_polyethylene": 0.8694
+    },
+    "wet_biomass_5pct_at_1GeV_protons_vs_water": 0.9901,
+    "ASTAR_min_ratio_vs_water": {
+      "eumelanin": {
+        "1-10 MeV": 0.8977,
+        "10-100 MeV": 0.9229,
+        "100-1000 MeV": 0.9235
+      },
+      "dhn": {
+        "1-10 MeV": 0.8891,
+        "10-100 MeV": 0.92,
+        "100-1000 MeV": 0.9214
+      }
+    }
+  }
+}
