@@ -1,0 +1,74 @@
+{
+  "water": {
+    "formulae": "H2O 1",
+    "rows": 80,
+    "sha256_html": "4eace75364e4fc6ca62813e4357c9669aad2a9685a047fad40d78d08ba37a0db",
+    "sha256_tsv": "2070fad318fa99c56269ee957b09855cf1ce916595a975deb52b8d277ec88a9f",
+    "retrieved_utc": "2026-11-13T07:51:24+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  },
+  "polyethylene": {
+    "formulae": "CH2 1",
+    "rows": 80,
+    "sha256_html": "a66395a30f2f9050a212b745ee6e35ba79bee86fad19bf2a73a714452d296b22",
+    "sha256_tsv": "7c7a97928eafd5fbd60639938dbb48cb0295a795274581cc97745ef4e649372a",
+    "retrieved_utc": "2026-11-13T07:51:27+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  },
+  "aluminum": {
+    "formulae": "Al 1",
+    "rows": 81,
+    "sha256_html": "9130108002fd3077f656914598a6d9c837f3550afbd4d485c2673a71616cd6fe",
+    "sha256_tsv": "8daab6ab3d86578c8df73cac51548324059ddbaf04ad50ef69d181ac56f18084",
+    "retrieved_utc": "2026-11-13T07:51:29+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  },
+  "eumelanin_C18H10N2O4": {
+    "formulae": "C18H10N2O4 1",
+    "rows": 80,
+    "sha256_html": "9b619b00ef7ad229205a2eea6977e9c385d5d58f317342ca06ba0848b9149954",
+    "sha256_tsv": "853c54f919743d3bde3ce6493f4585fb9e97aae03e2ca70c50aed7f0bde08ae7",
+    "retrieved_utc": "2026-11-13T07:51:31+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  },
+  "dhn_melanin_C8H4O2": {
+    "formulae": "C8H4O2 1",
+    "rows": 80,
+    "sha256_html": "e8f2bacf2259b2240ecd29c221e722a5a497d80999a6ffed9f79fa205698778b",
+    "sha256_tsv": "f1ff09799dd444fc0d30ad2ba44daf2fe03464f11bc41c3d715b17874e5483d4",
+    "retrieved_utc": "2026-11-13T07:51:33+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  },
+  "wet_biomass_5pct_eumelanin": {
+    "formulae": "H2O 0.60\nC18H10N2O4 0.05\nC10H18O5N 0.35",
+    "rows": 80,
+    "sha256_html": "865e94cce6d2b8673b64b5b9b5c0e647880807806cd4c1fce2ea81b851338999",
+    "sha256_tsv": "1aec9d4d370ca5b07f9fb0ad2819e85f0d5900eeedf2edfabef24b2697d016f1",
+    "retrieved_utc": "2026-11-13T07:51:35+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  },
+  "wet_biomass_30pct_eumelanin": {
+    "formulae": "H2O 0.60\nC18H10N2O4 0.30\nC10H18O5N 0.10",
+    "rows": 80,
+    "sha256_html": "ecae9ab98c767afc63dc4f1b303a28ba9870a155803956adb173db39ef1527ac",
+    "sha256_tsv": "f73e081c164d70255f14ecd03b210be2837b089d88a2e8715ec61acc1ab79e76",
+    "retrieved_utc": "2026-11-13T07:51:38+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  },
+  "dry_biomass_5pct_eumelanin": {
+    "formulae": "C18H10N2O4 0.05\nC10H18O5N 0.95",
+    "rows": 80,
+    "sha256_html": "01127b8664e9e179400afe5413c036e1fa601411a3b6390705fb4638d548c369",
+    "sha256_tsv": "475900498d545697021505ea6b0c5ad312b3713484ce499b98eca0a885f5e3a0",
+    "retrieved_utc": "2026-11-13T07:51:40+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  },
+  "tissue_icru44_approx": {
+    "formulae": "H 0.101\nC 0.111\nN 0.026\nO 0.761",
+    "rows": 80,
+    "sha256_html": "63e389b47483709d483db2ad1d5b2718e7f4678c712301c8cd170463d1205f50",
+    "sha256_tsv": "5f903096b262da8748f5a879490a335c4ec6a144fb7511343072140d467be8f5",
+    "retrieved_utc": "2026-11-13T07:51:42+00:00",
+    "source": "https://physics.nist.gov/cgi-bin/Xcom/xcom3_3"
+  }
+}
